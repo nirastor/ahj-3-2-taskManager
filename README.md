@@ -1,4 +1,4 @@
-(build status)
+[![Build status](https://ci.appveyor.com/api/projects/status/htumshgotr4ywsgq?svg=true)](https://ci.appveyor.com/project/nirastor/ahj-3-2-taskmanager)
 ***
 
 ## Task Manager
